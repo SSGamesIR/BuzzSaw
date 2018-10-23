@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platforms
+  - Ignore
+  - Projectiles
+  - Player
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 100085529
+    locked: 1
+  - name: Mountains
+    uniqueID: 2556719505
+    locked: 1
+  - name: Treeline
+    uniqueID: 3263633031
+    locked: 1
+  - name: Behind FG
+    uniqueID: 565954075
+    locked: 0
+  - name: Foreground
+    uniqueID: 2972088937
+    locked: 0
+  - name: Particles
+    uniqueID: 789434119
+    locked: 0
+  - name: Player
+    uniqueID: 2255832781
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 185681785
+    locked: 0
